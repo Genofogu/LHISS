@@ -1,0 +1,5 @@
+{
+  "name": "LHISS - Local Hiring & Hackathon Intelligence System",
+  "description": "A match-making intelligence system for local job and hackathon opportunities based on skill analysis.",
+  "requestFramePermissions": []
+}
